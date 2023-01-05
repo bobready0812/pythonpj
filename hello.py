@@ -1,3 +1,2 @@
-a = 1.123
-
+a = "Hello"
 print(type(a))
