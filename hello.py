@@ -1,3 +1,3 @@
 a = "python"
 b = " is fun!"
-print(a[:4:2])
+print(a[::-2])
